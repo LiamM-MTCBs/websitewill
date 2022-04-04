@@ -1,0 +1,11 @@
+html {
+  background-color: black;
+  background-size: cover;
+}
+
+body {
+  text-align: center;
+  color: white;
+  font-family: "Verdana", Sans-serif;
+  font-size: 40px;
+}

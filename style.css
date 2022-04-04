@@ -3,9 +3,17 @@ html {
   background-size: cover;
 }
 
+.picture {
+  text-align: left;
+}
+
+hr { 
+filter: blur(1px);
+display: block;overflow: hidden; border-style: inset; border-width: 2px;}
+
 body {
   text-align: center;
   color: white;
   font-family: "Verdana", Sans-serif;
-  font-size: 40px;
+  font-size: 20px;
 }

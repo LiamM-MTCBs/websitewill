@@ -1,10 +1,6 @@
 html {
-  background-color: black;
+  background-color: lightgoldenrodyellow;
   background-size: cover;
-}
-
-.picture {
-  text-align: left;
 }
 
 hr { 
@@ -13,7 +9,7 @@ display: block;overflow: hidden; border-style: inset; border-width: 2px;}
 
 body {
   text-align: center;
-  color: white;
+  color: black;
   font-family: "Verdana", Sans-serif;
   font-size: 20px;
 }

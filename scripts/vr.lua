@@ -10,8 +10,8 @@ local options = {}
 options.headscale = 3 -- how big you are in vr, 1 is default, 3 is recommended for max comfort in vr
 options.forcebubblechat = true -- decide if to force bubblechat so you can see peoples messages
 
-options.righthandhat = "Pal Hair" -- name of the accessory which you are using as your right hand
-options.lefthandhat = "LavanderHair" -- name of the accessory which you are using as your left hand
+options.righthandhat = _G.righthandhat -- name of the accessory which you are using as your right hand
+options.lefthandhat = _G.lefthandhat -- name of the accessory which you are using as your left hand
 
 options.righthandrotoffset = Vector3.new(0,0,0)
 options.lefthandrotoffset = Vector3.new(0,0,0)

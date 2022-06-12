@@ -40,8 +40,6 @@ cam.HeadScale = options.headscale
 
 wait()
 
-game.Players.LocalPlayer.Character:MoveTo(game.Players.LocalPlayer.Character.HumanoidRootPart.Position + Vector3.new(0,0,15))
-
 local function createpart(size, name)
 	local Part = Instance.new("Part", char)
 	Part.CFrame = char.HumanoidRootPart.CFrame

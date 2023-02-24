@@ -1,0 +1,47 @@
+html{
+    zoom:200%;
+}
+
+body {
+    background-color: #181818;
+    color:white;
+    font-family:Segoe UI
+}
+
+img{
+    border-radius:500px;
+}
+
+.box {
+    background-color: #191919;
+    max-width: 200px;
+}
+
+button{
+    border: none;
+    box-shadow: 0 2px rgb(0, 0, 0);
+    background-color: #171717;
+    color:white;
+    font-family:Segoe UI;
+    border-radius:5px;
+}
+button:hover{
+    background-color: #303030;
+    color:white;
+    font-family:Segoe UI;
+    border-radius:5px;
+}
+button:active{
+    transform: translateY(2px);
+    background-color: #272727;
+    color:white;
+    font-family:Segoe UI;
+    border-radius:5px;
+    box-shadow: 0 0px #666;
+}
+.yt{
+    background-color: #990000;
+}
+.dc{
+    background-color: #2f3688;
+}
